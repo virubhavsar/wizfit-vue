@@ -2,6 +2,8 @@
 
 This is a Vue.js-based application for the WizFit Challenge.
 
+### Note: The font style will change as per the client's requirements.
+
 ## Project Setup
 
 ### 1. Clone the Repository
