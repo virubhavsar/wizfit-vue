@@ -32,7 +32,7 @@
             placeholder="Search Campaign Here"
             class="search-campaign"
           />
-          <div v-if="loading" class="loading">Loading schools...</div>
+          <div v-if="loading" class="loading">Loading ...</div>
           <div v-if="error" class="error">{{ error }}</div>
           <div v-if="filteredSchools.length === 0 && !loading" class="no-results">
             No schools found.

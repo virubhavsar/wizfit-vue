@@ -33,7 +33,7 @@
 }
 
 .watch-video-btn {
-  background-color: #e53935;
+  background-color: #c10000;
   color: white;
   padding: 12px 25px;
   font-size: 1.25rem;
@@ -85,7 +85,7 @@
 .error,
 .no-results {
   font-size: 1.2rem;
-  color: #ff6347;
+  color: #c10000;
   margin-top: 20px;
 }
 
